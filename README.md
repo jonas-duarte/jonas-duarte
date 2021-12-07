@@ -19,6 +19,12 @@ Using my development expertise to inovate with cloud services and keep learning 
 |_Web/Mobile Order Service_|2018-2019|Developer|`JavaScript` `TypeScript` `Java` `COBOL` `Spring` `JSP` `Ionic` `Angular`|
 |_Integrations with a Order Service_|2016-2018|Developer|`COBOL` `JavaScript` `XML` `JSON`|
 
+### Activities
+|Activity|Period|Responsabilities|Tech stack|
+|-|-|-|-|
+|Development mentoring|2021|Mentor|`JavaScript` `TypeScript` `FireStore` `React`|
+|Electronic classes|2011-2015|Student|`C/C++`|
+
 ### Mainly strenghts
 `Good at searching on SEO's` `Curious` `Inovative thinking` `Fast peace learner` `Both solo or team worker`
 
@@ -28,3 +34,4 @@ Using my development expertise to inovate with cloud services and keep learning 
 
 #### Secondary skills to archive my goal and I feel confortable working with:
 `Java` `COBOL` `C/C++` `Spring` `JSP` `Ionic` `TDD` `COBOL` `Unity/C#` `React` `Angular` `Puppeteer` `React Native` `jQuery` `HTML` `CSS` `Query Selectors` `XML`
+
