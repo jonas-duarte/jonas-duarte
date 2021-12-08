@@ -17,7 +17,7 @@ Using my development expertise to inovate with cloud services and keep learning 
 |_Browser game automation_|2020-now|Owner/Developer|`JavaScript` `TypeScript` `React` `Puppeteer` `FireStore` `MongoDB` `HTTP` `jQuery` `HTML` `CSS`|
 |_Finances analyser_|2019-2020|Owner/Developer|`JavaScript` `TypeScript` `React` `HTTP` `HTML` `CSS`|
 |_Web/Mobile Order Service_|2018-2019|Developer|`JavaScript` `TypeScript` `Java` `COBOL` `Spring` `JSP` `Ionic` `Angular`|
-|_Integrations with a Order Service_|2016-2018|Developer|`COBOL` `JavaScript` `XML` `JSON`|
+|_Integrations with a Order Service_|2016-2018|Developer|`COBOL` `Java` `JavaScript` `XML` `JSON`|
 
 ### Activities
 |Activity|Period|Responsabilities|Tech stack|
