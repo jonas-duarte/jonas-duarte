@@ -35,3 +35,6 @@ Using my development expertise to inovate with cloud services and keep learning 
 #### Secondary skills to archive my goal and I feel confortable working with:
 `Java` `COBOL` `C/C++` `Spring` `JSP` `Ionic` `TDD` `COBOL` `Unity/C#` `React` `Angular` `Puppeteer` `React Native` `jQuery` `HTML` `CSS` `Query Selectors` `XML`
 
+### My websites
+https://tw-assistant.vercel.app/
+https://bovespa-insights.vercel.app/
