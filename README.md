@@ -4,7 +4,7 @@
 **E-mail:** jonasrdsantos@gmail.com  
 **Github:** https://github.com/jonas-duarte  
 **Linkedin:** https://www.linkedin.com/in/jonas-rafael-duarte-dos-santos-7b8803105/  
-**Experience:** `Working as developer since 2016` `Having contact with development since 2012`   
+**Experience:** `Working as developer since 2016` `Having contact with software development since 2012`   
 **Languages:** `Portuguese` `English`
 
 ### Professional goal
