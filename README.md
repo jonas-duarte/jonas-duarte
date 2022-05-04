@@ -8,7 +8,7 @@
 **Languages:** `Portuguese` `English`
 
 ### Professional goal
-Using my development expertise to inovate with cloud services and keep learning about Cloud Development and Artificial Inteligence.
+Using my development expertise to inovate with cloud services and keep learning about Cloud Development and developing scalable services.
 
 ### Projects
 |Project area|Period|Responsabilities|Tech stack|
