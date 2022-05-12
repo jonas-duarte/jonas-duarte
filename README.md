@@ -36,6 +36,6 @@ Using my development expertise to inovate with cloud services and keep learning 
 `Java` `COBOL` `C/C++` `Spring` `JSP` `Ionic` `TDD` `COBOL` `Unity/C#` `React` `Angular` `Puppeteer` `React Native` `jQuery` `HTML` `CSS` `Query Selectors` `XML`
 
 ### My websites
-- https://tw-assistant.vercel.app/  
+- https://tw-assistant.com
 - https://bovespa-insights.vercel.app/
 - https://who-am-i-client-eosin.vercel.app/
