@@ -39,3 +39,5 @@ Using my development expertise to inovate with cloud services and keep learning 
 - https://tw-assistant.com
 - https://bovespa-insights.vercel.app/
 - https://who-am-i-client-eosin.vercel.app/
+- https://sudoku-solver-eta.vercel.app/
+- https://infinity-farm-seven.vercel.app/
