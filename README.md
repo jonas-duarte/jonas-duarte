@@ -1,43 +1,62 @@
-### About me
-**Name:** Jonas dos Santos  
-**Date of birth:** June 11, 1996  
-**E-mail:** jonasrdsantos@gmail.com  
-**Github:** https://github.com/jonas-duarte  
-**Linkedin:** https://www.linkedin.com/in/jonasrdsantos/  
-**Experience:** `Working as developer since 2016` `Having contact with software development since 2012`   
-**Languages:** `Portuguese` `English`
+<!-- <h1 align="center">Jonas dos Santos</h1>
 
-### Professional goal
-Using my development expertise to inovate with cloud services and keep learning about Cloud Development and developing scalable services.
+<br/> -->
 
-### Projects
-|Project area|Period|Responsabilities|Tech stack|
-|-|-|-|-|
-|_Tax API's_|2020-now|Developer|`JavaScript` `TypeScript` `Python` `Java` `Kubernetes` `Kyma` `Cloud Foundry` `HTTP` `AMQP` `Micro Services` `JSON` `YAML` `DDD` `SOLID`|
-|_Browser game automation_|2020-now|Owner/Developer|`JavaScript` `TypeScript` `React` `Puppeteer` `FireStore` `MongoDB` `HTTP` `jQuery` `HTML` `CSS`|
-|_Finances analyser_|2019-2020|Owner/Developer|`JavaScript` `TypeScript` `React` `HTTP` `HTML` `CSS`|
-|_Web/Mobile Order Service_|2018-2019|Developer|`JavaScript` `TypeScript` `Java` `COBOL` `Spring` `JSP` `Ionic` `Angular`|
-|_Integrations with a Order Service_|2016-2018|Developer|`COBOL` `Java` `JavaScript` `XML` `JSON`|
+<p align="center">
+  <a href="https://github.com/jonas-duarte"><img src="https://github-readme-stats.vercel.app/api?username=jonas-duarte&count_private=true&theme=swift&hide_border=true&hide=issues,contribs&include_all_commits=true&show_icons=true&title_color=C62B29&icon_color=C62B29&custom_title=Full-stack developer and automation enthusiastic" /></a>
+</p>
 
-### Activities
-|Activity|Period|Responsabilities|Tech stack|
-|-|-|-|-|
-|Development mentoring|2021|Mentor|`JavaScript` `TypeScript` `FireStore` `React`|
-|Electronic classes|2011-2015|Student|`C/C++`|
 
-### Mainly strenghts
-`Good at searching on SEO's` `Curious` `Inovative thinking` `Fast peace learner` `Both solo or team worker`
+<h2 align="center"> Personal projects </h2>
 
-### Technical skills
-#### Collaborates with my professional goal and I feel confortable working with:
-`JavaScript` `TypeScript` `Python` `FireStore` `MongoDB` `SQL` `HTTP` `Docker` `Kubernetes` `Kyma` `Cloud Foundry` `Google Cloud Platform` `AWS` `MS-DOS` `SH` `JSON` `YAML` `MarkDown` `SCRUM` `DDD` `TDD` `SOLID` `AMQP` `Micro Services`
+<br/>
 
-#### Secondary skills to archive my goal and I feel confortable working with:
-`Java` `COBOL` `C/C++` `Spring` `JSP` `Ionic` `TDD` `COBOL` `Unity/C#` `React` `Angular` `Puppeteer` `React Native` `jQuery` `HTML` `CSS` `Query Selectors` `XML`
+<div align="center">
+  <a href="https://www.tw-assistant.com">
+    <img height="100em" src="https://www.tw-assistant.com/icons/logo-inverted.svg"/>
+  </a>
+  <span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+  <a href="https://bovespa-insights.vercel.app">
+    <img height="100em" src="https://bovespa-insights.vercel.app/icons/logo.svg"/>
+  </a>  
+  <span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+  <a href="https://sudoku-solver-eta.vercel.app/">
+    <img height="100em" src="https://sudoku-solver-eta.vercel.app/android-chrome-512x512.png"/>
+  </a>
+</div>
 
-### My websites
-- https://tw-assistant.com
-- https://bovespa-insights.vercel.app/
-- https://who-am-i-client-eosin.vercel.app/
-- https://sudoku-solver-eta.vercel.app/
-- https://infinity-farm-seven.vercel.app/
+<h2 align="center"> Work experiences </h2>
+<br/>
+<div align="center">
+    <img src="https://img.shields.io/badge/2016 -- 2022-ERP-C62B29"/>
+    <img src="https://img.shields.io/badge/2016 -- 2018-Integrations-C62B29"/>
+    <img src="https://img.shields.io/badge/2020 -- 2022-Tax API's-C62B29"/>
+    <img src="https://img.shields.io/badge/2019 -- 2020-Order Services (WEB/MOBILE)-C62B29"/>
+</div>
+
+<br/>
+
+<h2 align="center"> Stack </h2>
+
+<br/>
+<div align="center">
+  <img align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><span>&nbsp;</span><span>&nbsp;</span>
+  <img align="center" alt="Ts" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><span>&nbsp;</span><span>&nbsp;</span>
+  <img align="center" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><span>&nbsp;</span><span>&nbsp;</span>
+  <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><span>&nbsp;</span><span>&nbsp;</span>
+  <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><span>&nbsp;</span><span>&nbsp;</span>
+  <img align="center" alt="Kubernetes" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"><span>&nbsp;</span><span>&nbsp;</span>
+  <img align="center" alt="Docker" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"><span>&nbsp;</span><span>&nbsp;</span>
+  <img align="center" alt="GitHub Actions" height="30" width="30" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4">
+</div>
+  
+<br/>
+
+<h2 align="center"> About me </h2>
+ 
+<br/>
+<div align="center">
+  <a href = "mailto:jonasrdsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-C62B29?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jonasrdsantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://github.com/jonas-duarte" target="_blank"><img src="https://img.shields.io/badge/-GitHub-2f2e2e?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
+</div>
