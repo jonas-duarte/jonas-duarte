@@ -7,7 +7,8 @@
 </p>
 
 
-<h2 align="center"> Personal projects </h2>
+<h2></h2>
+<h3 align="center"> Personal projects </h3>
 
 <br/>
 
@@ -25,7 +26,8 @@
   </a>
 </div>
 
-<h2 align="center"> Work experiences </h2>
+<h2></h2>
+<h3 align="center"> Work experiences </h3>
 <br/>
 <div align="center">
     <img src="https://img.shields.io/badge/2016 -- 2022-ERP-C62B29"/>
@@ -36,7 +38,8 @@
 
 <br/>
 
-<h2 align="center"> Stack </h2>
+<h2></h2>
+<h3 align="center"> Stack </h3>
 
 <br/>
 <div align="center">
@@ -52,7 +55,8 @@
   
 <br/>
 
-<h2 align="center"> About me </h2>
+<h2></h2>
+<h3 align="center"> About me </h3>
  
 <br/>
 <div align="center">
