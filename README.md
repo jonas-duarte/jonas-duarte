@@ -2,6 +2,8 @@
 
 <br/> -->
 
+<h2></h2>
+
 <p align="center">
   <a href="https://github.com/jonas-duarte"><img src="https://github-readme-stats.vercel.app/api?username=jonas-duarte&count_private=true&theme=swift&hide_border=true&hide=issues,contribs&include_all_commits=true&show_icons=true&title_color=C62B29&icon_color=C62B29&custom_title=Full-stack developer and automation enthusiastic" /></a>
 </p>
