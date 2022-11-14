@@ -19,6 +19,10 @@
     <img height="100em" src="https://www.tw-assistant.com/icons/logo-inverted.svg"/>
   </a>
   <span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
+  <a href="https://wordle-jonas.vercel.app/">
+    <img height="100em" src="https://pics.freeicons.io/uploads/icons/png/3713041941626676461-512.png"/>
+  </a>
+  <span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
   <a href="https://bovespa-insights.vercel.app">
     <img height="100em" src="https://bovespa-insights.vercel.app/icons/logo.svg"/>
   </a>  
