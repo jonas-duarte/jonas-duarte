@@ -20,7 +20,7 @@
   </a>
   <span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
   <a href="https://wordle-jonas.vercel.app/">
-    <img height="100em" src="https://pics.freeicons.io/uploads/icons/png/3713041941626676461-512.png"/>
+    <img height="100em" src="https://img.icons8.com/nolan/2x/w-key.png"/>
   </a>
   <span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>
   <a href="https://bovespa-insights.vercel.app">
