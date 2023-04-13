@@ -40,6 +40,7 @@
     <img src="https://img.shields.io/badge/2016 -- 2018-Integrations-C62B29"/>
     <img src="https://img.shields.io/badge/2019 -- 2020-Order Services (WEB/MOBILE)-C62B29"/>
     <img src="https://img.shields.io/badge/2020 -- 2022-Tax API's-C62B29"/>
+    <img src="https://img.shields.io/badge/2022 -- 2023-Reporting tools-C62B29"/>
 </div>
 
 <br/>
